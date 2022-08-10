@@ -1,6 +1,6 @@
 # Android MVVM Weather App (Kotlin + Retrofit + Dagger)
 
-MVVM Architecture is one of the most popular and latest architecture to develop a maintanable and managable codebase. Here's a sample `Weater` Android App with `MVVM Architecture` using `Kotlin` language and `Retrofit` network calling library.
+MVVM Architecture is one of the most popular and latest architecture to develop a maintanable and managable codebase. Here's a sample `Weather` Android App with `MVVM Architecture` using `Kotlin` language and `Retrofit` network calling library.
 
 ### Project Description
 This is a weather forecast Android Application with MVVM architecture.There is a `Search`. After entering a city user need to hit the `Search` button. Then App will send request to Open Weather web API and show the weather information in the UI.
